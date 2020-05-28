@@ -1,4 +1,4 @@
-# Java EE (JEE) sample REST web application
+# Java EE (JEE) sample Representational state transfer (REST) web application
 
 This application architecture is as follows:
 
